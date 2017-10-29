@@ -684,7 +684,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-53755606-1', 'auto');
 ga('send', 'pageview');
 
-var bgColorArray = ['//imgur.com/eiYnLY9','//imgur.com/a/2NcuE','//imgur.com/a/hyIdw','//imgur.com/a/Q0Ory','],
+var bgColorArray = ['//i.imgur.com/eiYnLY9','//i.imgur.com/a/2NcuE','//i.imgur.com/a/hyIdw','//i.imgur.com/a/Q0Ory'],
 
 selectBG = bgColorArray[Math.floor(Math.random() * bgColorArray.length)];
 $('#backg').css('background', 'url(' + selectBG + ')')
