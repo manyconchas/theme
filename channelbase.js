@@ -684,7 +684,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-53755606-1', 'auto');
 ga('send', 'pageview');
 
-var bgColorArray = ['//static.tumblr.com/fffd3800cfbc2e7636a4c95c7582f7b6/pzscn8z/Iekoq8qk0/tumblr_static_tumblr_static_filename_640.gif','//78.media.tumblr.com/d25cba2cc591b5bac6ee7fd2831ffe6a/tumblr_ojxvvfHN121toe0eco1_500.gif','//media.giphy.com/media/3o6Ztp7WyY2Wvm5sUE/giphy.gif','//data.whicdn.com/images/293998790/original.gif','//media.giphy.com/media/feOLsVVsYft04/giphy.gif'],
+var bgColorArray = ['//imgur.com/eiYnLY9','//imgur.com/a/2NcuE','//imgur.com/a/hyIdw','//imgur.com/a/Q0Ory','],
 
 selectBG = bgColorArray[Math.floor(Math.random() * bgColorArray.length)];
 $('#backg').css('background', 'url(' + selectBG + ')')
