@@ -684,7 +684,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-53755606-1', 'auto');
 ga('send', 'pageview');
 
-var bgColorArray = ['//i.imgur.com/4mIyzi6.gif','//i.imgur.com/3fWS4yT.gif','//i.imgur.com/sUWLb3z.gif','//i.imgur.com/k2tPprm.gif','//i.imgur.com/gD9ZR4J.gif','//i.imgur.com/fatVmPu.gif','//i.imgur.com/6r5Tu23.gif'],
+var bgColorArray = ['//https://static.tumblr.com/fffd3800cfbc2e7636a4c95c7582f7b6/pzscn8z/Iekoq8qk0/tumblr_static_tumblr_static_filename_640.gif','//https://78.media.tumblr.com/d25cba2cc591b5bac6ee7fd2831ffe6a/tumblr_ojxvvfHN121toe0eco1_500.gif','//https://media.giphy.com/media/3o6Ztp7WyY2Wvm5sUE/giphy.gif','//https://data.whicdn.com/images/293998790/original.gif','//https://media.giphy.com/media/feOLsVVsYft04/giphy.gif','],
 
 selectBG = bgColorArray[Math.floor(Math.random() * bgColorArray.length)];
 $('#backg').css('background', 'url(' + selectBG + ')')
